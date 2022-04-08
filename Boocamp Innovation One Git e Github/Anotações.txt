@@ -1,0 +1,10 @@
+Boocamp Innovation One Git/Gihub
+Comandos usados no projeto
+
+# git clone para clonar o prjeto 
+# cd para entrar no projeto
+# git status para verificar se tudo certo no projeto
+# git add . ou git add -A para adicionar todos os arquivos
+# git commit -m
+# git push origin main para enviar todos os commits que 
+temos localmente para a nuvem
